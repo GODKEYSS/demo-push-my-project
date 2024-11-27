@@ -1,1 +1,1 @@
-add a readme
+add a readme and edit on github
