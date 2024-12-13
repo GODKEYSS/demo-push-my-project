@@ -1,1 +1,1 @@
-add a readme and edit on github
+Dự án này có tổng có 3 thành viên
